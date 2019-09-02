@@ -1,4 +1,4 @@
-package io.prashant.learing.dp.singleton;
+package io.prashant.learning.dp.memento;
 
 /**
  * Hello world!

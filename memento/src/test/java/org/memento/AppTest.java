@@ -1,4 +1,4 @@
-package io.prashant.learing.dp.singleton;
+package org.memento;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
