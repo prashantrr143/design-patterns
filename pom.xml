@@ -15,5 +15,6 @@
 	</properties>
 	<modules>
 		<module>singleton</module>
+		<module>visitor</module>
 	</modules>
 </project>
