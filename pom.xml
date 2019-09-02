@@ -15,5 +15,7 @@
 	</properties>
 	<modules>
 		<module>visitor</module>
+		<module>memento</module>
+
 	</modules>
 </project>
