@@ -7,8 +7,8 @@
     <artifactId>design-patterns</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>memento</artifactId>
-  <name>memento</name>
+  <artifactId>builder</artifactId>
+  <name>builder</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
