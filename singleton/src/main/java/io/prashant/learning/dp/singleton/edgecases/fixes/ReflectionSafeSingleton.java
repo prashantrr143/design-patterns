@@ -1,6 +1,6 @@
 package io.prashant.learning.dp.singleton.edgecases.fixes;
 
-public class ReflectionSafeSingleton {
+public class ReflectionSafeSingleton  {
 
 	private static ReflectionSafeSingleton instance;
 
