@@ -59,7 +59,7 @@ public class BreakSingletonBySerialization {
 			e.printStackTrace();
 		}
 
-		System.out.println("Using Serialization  Created Singleton Instance :  " + anotherSerializedSingleton);
+		System.out.println("Using Serialization Created Singleton Instance :  " + anotherSerializedSingleton);
 		System.out.println("Are both instances equal ?  " + (ssSingleton == anotherSerializedSingleton));
 
 	}
