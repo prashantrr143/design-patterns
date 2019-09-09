@@ -8,7 +8,7 @@ package io.prashant.learning.dp.singleton;
  */
 public class DoubleLockingSingleton {
 
-	private static DoubleLockingSingleton instance;
+	private static volatile DoubleLockingSingleton instance;
 
 	private DoubleLockingSingleton() {
 		// Constructor made private , so that no access allowed from outside this class
